@@ -1,0 +1,14 @@
+tqdm
+yacs
+numpy
+smplx==0.1.13
+h5py
+joblib
+tensorboard
+scikit-image
+scikit-video
+opencv-python
+trimesh
+pyrender
+scipy
+git+https://github.com/mattloper/chumpy.git
