@@ -48,7 +48,7 @@ python -u -m torch.distributed.launch \
 Otherwise, if you are using task scheduling system such as Slurm to submit your training tasks, you can refer to [this script](scripts/run.sh) to start your training:
 ```shell script
 # training on 2 nodes, 4 gpus each (2x4=8 gpus total)
-sh run_slurm.sh 2 4 configs/config_stage1.yaml
+sh scripts/run.sh 2 4 configs/config_stage1.yaml
 ```
 The checkpoint of training will be saved in [`results/`] by default. You are free to modify it in the config file.
 
