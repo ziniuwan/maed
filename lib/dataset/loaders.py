@@ -111,7 +111,7 @@ def get_data_loaders(cfg, transforms_3d, transforms_2d, transforms_val, transfor
     # ===== Evaluation dataset =====
     valid_db = VideoDataset(
         dataset_name=cfg.TRAIN.DATASET_EVAL,
-        set='test', 
+        set='val', 
         transforms=transforms_val,
         overlap=0, 
         sample_pool=cfg.EVAL.SAMPLE_POOL,
