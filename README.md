@@ -1,4 +1,7 @@
-<object data="doc/figs/net_arch.pdf" type="application/pdf" width="90%"> </object>
+<p float="center">
+  <img src="doc/figs/net_arch.png" width="100%" />
+  <img src="doc/figs/ste_blocks.png" width="100%" />
+</p>
 
 <p float="center">
   <img src="doc/figs/golf.gif" width="49%" />
