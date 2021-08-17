@@ -1,8 +1,6 @@
-<p float="center">
-  <img src="doc/figs/net_arch.pdf" width="90%" />
-  <img src="doc/figs/ste_blocks.pdf" width="90%" />
-</p>
-
+<object data="doc/figs/net_arch.pdf" type="application/pdf" width="90%">
+    <embed src="doc/figs/net_arch.pdf"> </embed>
+</object>
 <p float="center">
   <img src="doc/figs/golf.gif" width="49%" />
   <img src="doc/figs/freestyle.gif" width="49%" />
