@@ -45,8 +45,8 @@ TRAIN:
   IMG_USE_FREQ: 1
   NUM_ITERS_PER_EPOCH: -1
   RESUME: ''
-  START_EPOCH: 60
-  END_EPOCH: 160   #
+  START_EPOCH: 0
+  END_EPOCH: 100   #
   DATASETS_2D:
     - 'insta'
     - 'posetrack'
@@ -66,7 +66,7 @@ TRAIN:
     OPTIM: 'Adam' 
     WARMUP_EPOCH: 0 
     WARMUP_FACTOR: 0.1
-    MILESTONES: [40, 55]
+    MILESTONES: [60, 90]
 MODEL:
   ENCODER:
     BACKBONE: 'ste'
