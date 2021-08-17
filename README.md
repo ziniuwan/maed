@@ -1,4 +1,9 @@
 <p float="center">
+  <img src="doc/figs/net_arch.pdf" width="90%" />
+  <img src="doc/figs/ste_blocks.pdf" width="90%" />
+</p>
+
+<p float="center">
   <img src="doc/figs/golf.gif" width="49%" />
   <img src="doc/figs/freestyle.gif" width="49%" />
 </p>
