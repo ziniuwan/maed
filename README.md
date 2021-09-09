@@ -92,3 +92,14 @@ Evaluation metric is Procrustes Aligned Mean Per Joint Position Error (PA-MPJPE)
 | VIBE (w/ 3DPW)  |   51.9   |   82.9   |   99.1   |   23.4   |
 | ours (w/o 3DPW) | **50.7** | **88.8** | **104.5**|   18.0   |
 | ours (w/ 3DPW)  | **45.7** | **79.1** | **92.6** |   17.6   |
+
+## Citation
+
+```
+@inproceedings{wan2021,
+  title={Encoder-decoder with Multi-level Attention for 3D Human Shape and Pose Estimation},
+  author={Ziniu Wan, Zhengjia Li, Maoqing Tian, Jianbo Liu, Shuai Yi, Hongsheng Li},
+  booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+  year = {2021}
+}
+```
