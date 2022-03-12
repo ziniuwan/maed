@@ -142,18 +142,18 @@ mpii
 Directory structure: 
 ```shell script
 coco2014-all
-|-- 099992483.jpg
-|-- 099990098.jpg
+|-- COCO_train2014_000000000001.jpg
+|-- COCO_train2014_000000000002.jpg
 `-- ...
 ```
 
-- **[LSPet](https://sam.johnson.io/research/lspet.html)**
+- **[LSPet](http://sam.johnson.io/research/lspet.html)**
 
 Directory structure: 
 ```shell script
 lspet
-|-- COCO_train2014_000000000001.jpg
-|-- COCO_train2014_000000000002.jpg
+|-- im00001.jpg
+|-- im00002.jpg
 `-- ...
 ```
 
