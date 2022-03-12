@@ -93,6 +93,10 @@ Evaluation metric is Procrustes Aligned Mean Per Joint Position Error (PA-MPJPE)
 | ours (w/o 3DPW) | **50.7** | **88.8** | **104.5**|   18.0   |
 | ours (w/ 3DPW)  | **45.7** | **79.1** | **92.6** |   17.6   |
 
+## Pretrained Model
+
+https://drive.google.com/file/d/1raRMRCbMGTZNHCHAStoWM0EWoTfOg4-m/view?usp=sharing
+
 ## Citation
 
 ```
