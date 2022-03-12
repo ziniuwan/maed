@@ -25,7 +25,7 @@ insta_variety
 ```
 
 As the original InstaVariety is saved in tfrecord format, which is not suitable for use in Pytorch. You could run this 
-[script](scripts/prepare_insta.sh) which will extract frames of every tfrecord and save them as jpeg.
+[script](../scripts/prepare_insta.sh) which will extract frames of every tfrecord and save them as jpeg.
 
 Directory structure after extraction:
 ```shell script
